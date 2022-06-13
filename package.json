@@ -1,0 +1,25 @@
+{
+  "name": "node.js-socket.io",
+  "version": "1.0.0",
+  "description": "chatSocketIo",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaxa9505/chatSocketIo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaxa9505/chatSocketIo/issues"
+  },
+  "homepage": "https://github.com/shaxa9505/chatSocketIo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "socket.io": "^2.3.0"
+  }
+}
